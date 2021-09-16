@@ -13,7 +13,8 @@ This is a attendance facial recognition system using deep learning.
 
   
 ## Model flow diagram
-![flow](https://user-images.githubusercontent.com/65908522/133533636-c2d336f6-0e76-40f9-b4e1-d0802c750db9.jpeg)
+![flow1 jpg drawio](https://user-images.githubusercontent.com/65908522/133533795-21503686-3ec2-4369-8613-dc99d7387076.png)
+
 
 
 
